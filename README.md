@@ -1,6 +1,7 @@
 # Building Chrome for AWS Lambda
 
 ### References
+  - Kudos to https://github.com/wesmcouch, this repo will be migrated/retired once he has released the updated version
   
   - Scaling Selenium to Infinity https://github.com/tsu-denim/selenium-conf-chicago/releases/download/20181025/selenium-conf.pdf
 
